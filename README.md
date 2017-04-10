@@ -1,0 +1,2 @@
+# BarbosasDeterminant
+Game Theory Project
